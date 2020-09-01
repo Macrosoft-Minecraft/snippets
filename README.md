@@ -7,6 +7,8 @@ Feel free to use this snippets or make a pullrequest. Fully open source.
 * Checkout our IDE/Framework to macros: [Rocket](https://rocket.macrosoft.site/) or watch some [video](https://www.youtube.com/playlist?list=PLMKq-ppHFNmjs4sF2p0uBZomA4CHdPi7J) about this.
 * Or access the Macrosoft heart 💖: [CloudScript](https://cloudscript.macrosoft.site/) module and webservice.
 
+Special thanks to Gorlem for building the [most awesome docs](https://beta.mkb.gorlem.ml/docs/actions/) for Macromod available ever. We love you.
+
 ## How to use python Indenter?
 ```py
 from indenter import Indenter
