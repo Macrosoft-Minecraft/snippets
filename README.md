@@ -1,6 +1,6 @@
 # Macrosoft public snippets
 
-Feel free to use this snippets. Fully open source.
+Feel free to use this snippets or make a pullrequest. Fully open source.
 
 * Join our community on [Discord](https://discord.gg/u6mWyg6).
 * Or access our [website](https://macrosoft.site/) to checkout videos and more.
