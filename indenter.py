@@ -1,14 +1,12 @@
 import re
 
 """
-Inputs 
-lines = a list of lines
+INPUTS 
+  lines = a list of lines
 
-Example usage:
+OUTPUT
+  Pure indented text
 
-l = ['IF(&a==&b);','LOG("Yo");','ENDIF;']
-i = Indenter(lines=l)
-content = i.indent()
 """
 
 class Indenter:
