@@ -49,7 +49,7 @@ class Indenter:
 				closed = True
 			command = Indenter.related_command(l, self.openings) #Get tries to extract a block opening word
 			if command is not None:
-				self.stack.append('|'.join(self.blocks[command]))
+				self.stack.append('|'.join(self.blocks[command.upper()]))
 				if not closed: #If the block was already closed, there's no reason to repeat the line
 					self.indent_line(l)
 				self.level += 1 #Backwards the indentation
